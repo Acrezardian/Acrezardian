@@ -1,7 +1,6 @@
-I’m Muhammad Dyaz Alfarino Febrian AKA Acrezardian 
-
-I’m interested in Hardware/Software Development
-I’m currently learning Python
+I’m Muhammad Dyaz Alfarino Febrian AKA Acrezardian </br>
+I’m interested in Hardware/Software Development </br>
+I’m currently learning Python </br>
 
 Politeknik Harapan Bersama student
 
