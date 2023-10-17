@@ -1,5 +1,4 @@
-I’m @Acrezardian 
-my full name is Muhammad Dyaz Alfarino Febrian
+I’m Muhammad Dyaz Alfarino Febrian AKA Acrezardian 
 
 I’m interested in Hardware/Software Development
 I’m currently learning Python
