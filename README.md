@@ -1,8 +1,11 @@
-I’m Muhammad Dyaz Alfarino Febrian AKA Acrezardian </br>
-I’m interested in Hardware/Software Development </br>
-I’m currently learning Python </br>
+Muhammad Dyaz Alfarino Febrian</br>
 
-Politeknik Harapan Bersama student
+interested in Hardware/Software Development </br>
+currently learning Python </br>
+Politeknik Harapan Bersama student</br>
+
+connect with me in [Linkedin](https://www.linkedin.com/in/muhammad-dyaz-alfarino-febrian-686266243/)</br>
+
 
 <!---
 Acrezardian/Acrezardian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
