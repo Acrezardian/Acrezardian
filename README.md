@@ -17,6 +17,7 @@ Saya adalah mahasiswa Teknik Komputer di Politeknik Harapan Bersama. Saat ini, s
 
 - Pemrograman (C, C++, Java, Phyton)
 - Pengembangan Web (Front-End Developer, UI/UX Developer)
+- Computer vision (Beginner)
 
 ## Inspirasi
 
