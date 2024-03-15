@@ -1,4 +1,4 @@
-# Nama: Muhammad Dyaz Alfarino Febrian
+# Muhammad Dyaz Alfarino Febrian
   
 ## Tentang Saya
 
